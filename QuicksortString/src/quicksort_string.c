@@ -5,6 +5,10 @@
  *      Author: josngoc
  */
 
+/*
+ * Da co tren git
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
